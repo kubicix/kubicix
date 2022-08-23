@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kubicix
-- 👀 I’m interested in C#,PYTHON,SQL,OOP,MOBILE PROGRAMMING
+- 👀 I’m interested in C#,PYTHON,SQL,OOP,MOBILE PROGRAMMING,ML
 - 🌱 I’m currently learning C# AND PYTHON
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kubilaybirer@hotmail.com
