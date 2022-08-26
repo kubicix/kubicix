@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kubicix.
 - 👀 I’m interested in C#,PYTHON,SQL,POSTGRESQL,OOP,MOBILE PROGRAMMING,ML
 - 🌱 I’m currently learning C# AND PYTHON
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on projects that I caouldhelp
 - 📫 How to reach me kubilaybirer@hotmail.com
 
 <!---
