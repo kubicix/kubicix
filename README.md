@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kubicix.
+- 👋 Hi, I’m @kubicix..
 - 👀 I’m interested in C#,PYTHON,SQL,POSTGRESQL,OOP,MOBILE PROGRAMMING,MACHINE LEARNING.
 - 🌱 I’m currently learning PYTHON.
 - 💞️ I’m looking to collaborate on projects that I caouldhelp
