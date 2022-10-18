@@ -1,5 +1,5 @@
 # 💫 About Me:
-Determined Full-Stack Wannabe.
+Determined Full-Stack Wannabe
 
 
 ## 🌐 Socials:
