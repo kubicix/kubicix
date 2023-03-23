@@ -1,5 +1,5 @@
 # 💫 About Me:
-Determined Full-Stack Wannabe
+On the way to becoming a backend developer
 
 
 ## 🌐 Socials:
