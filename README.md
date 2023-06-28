@@ -1,5 +1,5 @@
 # 💫 About Me:
-On the way to becoming a backend developer
+Hello I'm Kubi. I'm a passionate and sportive software developer and an engineering student. I mainly use programming languages like C#, Python and SQL, but I have experience in many programming languages and I'm always open to new languages and technologies.
 
 
 ## 🌐 Socials:
