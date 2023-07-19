@@ -1,4 +1,4 @@
-# 💫 About Me:
+<<# 💫 About Me:
 Hello I'm Kubi. I'm a passionate and sportive software developer and an engineering student. I mainly use programming languages like C#, Python and SQL, but I have experience in many programming languages and I'm always open to new languages and technologies.
 
 
@@ -13,7 +13,7 @@ Hello I'm Kubi. I'm a passionate and sportive software developer and an engineer
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
