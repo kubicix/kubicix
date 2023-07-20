@@ -1,4 +1,4 @@
-<<# 💫 About Me:
+# 💫 About Me:
 Hello I'm Kubi. I'm a passionate and sportive software developer and an engineering student. I mainly use programming languages like C#, Python and SQL, but I have experience in many programming languages and I'm always open to new languages and technologies.
 
 
@@ -41,5 +41,5 @@ Hello I'm Kubi. I'm a passionate and sportive software developer and an engineer
 ###
 
 ## Statistics
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kubicix&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+x
 
