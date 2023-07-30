@@ -35,7 +35,6 @@ Hello I'm Kubi. I'm a passionate and sportive software developer and an engineer
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   
-  
 </div>
 
 ###
