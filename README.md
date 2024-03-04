@@ -12,7 +12,7 @@ Hello I'm Kubi. I'm a passionate and sportive software developer and an engineer
   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo" title="DJANGO"/>
   <img width="12" />
