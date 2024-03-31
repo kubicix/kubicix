@@ -1,5 +1,10 @@
 # 💫 About Me:
-Hello I'm Kubi. I'm a passionate and sportive software developer and an engineering student. I mainly use programming languages like C#, Python and SQL, but I have experience in many programming languages and I'm always open to new languages and technologies.
+👋 Hello, I'm Kubi.
+🚀 I'm a passionate and sportive software developer and an engineering student.<br>
+💻 I mainly use programming languages like C#, Python, and SQL, but I have experience in many programming languages and I'm always open to new languages and technologies.<br>
+🌐 I've been focusing heavily on web development lately, especially with frameworks like Django, ASP.NET, and CodeIgniter.<br>
+🔧 I've integrated JavaScript and various APIs into my projects too.<br>
+📱 I'm also interested in mobile app development, and I've previously developed mobile projects like currency converter and AR furniture app.<br>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kubilay-birer-988361239) 
