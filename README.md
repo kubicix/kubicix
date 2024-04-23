@@ -45,6 +45,9 @@
   <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  title="DOCKER"/>
   <img width="12" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" title="GIT"/>
+  <img width="12" /> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
+  
 </div>
 
 ###
