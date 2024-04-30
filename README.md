@@ -51,7 +51,6 @@
 </div>
 
 ###
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-cyb8h8p74-kubicix.vercel.app/api/top-langs/?username=kubicix&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
