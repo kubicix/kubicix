@@ -6,9 +6,20 @@
 🔧 I've integrated JavaScript and various APIs into my projects too.<br>
 🐳 I've successfully dockerized my projects, making them easily deployable on cloud platforms through containers.<br>
 📱 I'm also interested in mobile app development, and I've previously developed various mobile projects.
+# 🌍 Portfolio
+
+🚀 Check out my personal website to explore my projects, skills, and developer journey:
+
+[![Visit My Portfolio](https://img.shields.io/badge/Portfolio-kubicix.dev-informational?style=for-the-badge&logo=githubpages&logoColor=white&color=0a192f)](https://kubicix.github.io/kubicix-portfolio/)
+
+🔗 **Link:** [kubicix.github.io/kubicix-portfolio](https://kubicix.github.io/kubicix-portfolio/)
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kubilay-birer-988361239) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kubilay-birer-988361239)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230a192f.svg?logo=githubpages&logoColor=white)](https://kubicix.github.io/kubicix-portfolio/)
+
+
+
 
 # 💻 Tech Stack:
 <div style="display: flex; flex-wrap: wrap; gap: 12px; align-items: center;">
